@@ -1,0 +1,4 @@
+1.Parse HTML
+2.Render/Frame Tree
+3.Layout
+4.Paint

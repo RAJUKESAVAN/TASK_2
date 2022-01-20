@@ -1,0 +1,17 @@
+*console.log(typeof(1));==>>NUMBER
+ 
+*console.log(typeof(1.1));==>FLOAT
+
+*console.log(typeof('1.1'))==>STRING
+
+*console.log(typeof(true))==>BOOLEAN
+
+*console.log(typeof(null))==>VARIABLE VALUE NOT DECLARE
+
+*console.log(typeof(undefined));==>VALLUE MISS MATCHING
+
+*console.log(typeof([]));==>ARRAY
+
+*console.log(typeof({}));==>OBJECT
+
+*console.log(typeof(NaN));==>NUMBER

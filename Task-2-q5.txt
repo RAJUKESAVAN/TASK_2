@@ -1,0 +1,19 @@
+A prototype is an initial creation of a product that shows the basics of what a product will look like, what the product will do, and how the product operates. 
+A prototype isn't meant to be the final version; it's the rough draft form of the product.
+
+Protocal Methods
+----------------
+GET - get any information
+POST - to create a any message
+PUT - to store any message
+DELETE - remove message
+PATCH - re-usable of message
+
+Protocal code
+-------------
+
+100 -199 - Acknowledgement
+200 -299 - Success
+300 -399 - Warrning
+400 -499 - client side error
+500 -599 - server side error

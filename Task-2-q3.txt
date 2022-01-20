@@ -1,0 +1,21 @@
+*An html element's start tag may be omitted if the first thing inside the html element is not a comment.
+
+*An html element's end tag may be omitted if the html element is not immediately followed by a comment.
+
+*A head element's start tag may be omitted if the element is empty, or if the first thing inside the head element is an element.
+
+*A head element's end tag may be omitted if the head element is not immediately followed by a space character or a comment.
+
+*A body element's start tag may be omitted if the element is empty, or if the first thing inside the body element is not a space character or a comment, except if the first thing inside the body element is a script or style element.
+
+*A body element's end tag may be omitted if the body element is not immediately followed by a comment.
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>guvi task 2, question 3</title>
+  </head>
+  <body>
+    <p>finished.</p>
+  </body>
+</html>

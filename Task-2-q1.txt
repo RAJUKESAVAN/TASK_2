@@ -1,0 +1,33 @@
+JAVA SCRIPT
+
+* JavaScript is a language.
+node.js is not a language or a special dialect of JavaScript - it's just a thingamabob that runs normal JavaScript.
+
+* All browsers have JavaScript engines that run the JavaScript of web pages. Firefox has an engine called Spidermonkey, 
+Safari has JavaScriptCore, and Chrome has an engine called V8.
+
+index.html
+----------
+<html>
+<head>
+</head>
+<body>
+<script src="./raju.js"></script>
+</body>
+</html>
+
+raju.js
+-------
+let a = 200;
+let b = 33.56;
+console.log(a+b);
+
+NODE JS
+
+* Node.js is simply the V8 engine bundled with some libraries to do I/O and networking, 
+so that you can use JavaScript outside of the browser, to create shell scripts, backend services or run on hardware.
+
+* Nodejs is an interpreter and environment for javascript which includes a bunch of libraries for using javascript as a general-purpose programming language, 
+with an emphasis on asynchronicity and non-blocking operations.
+Node actually runs the same interpreter as Google Chrome (V8), but provides a different set of libraries and a different run-time environment. 
+It also includes a package management system (NPM) and a few language extensions you won't find standard in browsers (for example modules).
